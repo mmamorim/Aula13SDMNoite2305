@@ -1,6 +1,8 @@
-# Aula 11 SDM Noite 09/05
+# Aula 13 SDM Noite 23/05
 
-**Versão Stack Completa acessando MONGO DB**
+**Versão Stack Completa acessando MONGO DB com Autenticação JWT**
+
+`O exemplo está no arquivo auth.js`
 
 `não esqueça de iniciar o mongo!`
 
